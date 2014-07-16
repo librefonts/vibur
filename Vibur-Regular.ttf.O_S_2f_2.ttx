@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <OS_2>
+    <version value="1"/>
+    <xAvgCharWidth value="718"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="0"/>
+    <ySubscriptYSize value="0"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="0"/>
+    <ySuperscriptXSize value="7648"/>
+    <ySuperscriptYSize value="7680"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="0"/>
+    <yStrikeoutSize value="40"/>
+    <yStrikeoutPosition value="67"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="3"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="6"/>
+      <bProportion value="3"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="10000000 00000000 00000000 00111111"/>
+    <ulUnicodeRange2 value="00000000 00000000 00000000 01000011"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="KORK"/>
+    <fsSelection value="00000000 01000000"/>
+    <fsFirstCharIndex value="32"/>
+    <fsLastCharIndex value="8725"/>
+    <sTypoAscender value="1638"/>
+    <sTypoDescender value="-410"/>
+    <sTypoLineGap value="184"/>
+    <usWinAscent value="1960"/>
+    <usWinDescent value="792"/>
+    <ulCodePageRange1 value="00100000 00000000 00000000 00000001"/>
+    <ulCodePageRange2 value="00000000 11010100 00000000 00000000"/>
+  </OS_2>
+
+</ttFont>

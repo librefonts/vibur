@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="0"/>
+    <underlineThickness value="0"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="nbspace"/>
+      <psName name="middot"/>
+      <psName name="ts"/>
+      <psName name="er"/>
+      <psName name="es"/>
+      <psName name="foursuperior"/>
+      <psName name="twoinferior"/>
+      <psName name="fourinferior"/>
+      <psName name="Euro"/>
+      <psName name="divisionslash"/>
+      <psName name="Q.alt"/>
+      <psName name="V.alt"/>
+      <psName name="Vibur.alt"/>
+      <psName name="Virkus"/>
+      <psName name="W.alt"/>
+      <psName name="Y.alt"/>
+      <psName name="ar"/>
+      <psName name="as"/>
+      <psName name="b.alt"/>
+      <psName name="backslash.001"/>
+      <psName name="br"/>
+      <psName name="bs"/>
+      <psName name="cr"/>
+      <psName name="cs"/>
+      <psName name="dieresis.001"/>
+      <psName name="dr"/>
+      <psName name="ds"/>
+      <psName name="e.alt"/>
+      <psName name="endash.002"/>
+      <psName name="eth.alt"/>
+      <psName name="fraction.001"/>
+      <psName name="hr"/>
+      <psName name="hs"/>
+      <psName name="ir"/>
+      <psName name="is"/>
+      <psName name="kr"/>
+      <psName name="ks"/>
+      <psName name="lb.alt"/>
+      <psName name="lr"/>
+      <psName name="ls"/>
+      <psName name="mr"/>
+      <psName name="ms"/>
+      <psName name="nr"/>
+      <psName name="ns"/>
+      <psName name="or"/>
+      <psName name="os"/>
+      <psName name="pr"/>
+      <psName name="ps"/>
+      <psName name="registered.001"/>
+      <psName name="rr"/>
+      <psName name="rs"/>
+      <psName name="tr"/>
+      <psName name="ur"/>
+      <psName name="us"/>
+      <psName name="vr"/>
+      <psName name="vs"/>
+      <psName name="wr"/>
+      <psName name="ws"/>
+    </extraNames>
+  </post>
+
+</ttFont>

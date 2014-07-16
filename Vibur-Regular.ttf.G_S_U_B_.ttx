@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=2 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=3 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="a">
+            <Ligature components="s" glyph="as"/>
+            <Ligature components="r" glyph="ar"/>
+          </LigatureSet>
+          <LigatureSet glyph="b">
+            <Ligature components="s" glyph="bs"/>
+            <Ligature components="r" glyph="br"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="s" glyph="cs"/>
+            <Ligature components="r" glyph="cr"/>
+          </LigatureSet>
+          <LigatureSet glyph="d">
+            <Ligature components="s" glyph="ds"/>
+            <Ligature components="r" glyph="dr"/>
+          </LigatureSet>
+          <LigatureSet glyph="e">
+            <Ligature components="s" glyph="es"/>
+            <Ligature components="r" glyph="er"/>
+          </LigatureSet>
+          <LigatureSet glyph="h">
+            <Ligature components="s" glyph="hs"/>
+            <Ligature components="r" glyph="hr"/>
+          </LigatureSet>
+          <LigatureSet glyph="i">
+            <Ligature components="s" glyph="is"/>
+            <Ligature components="r" glyph="ir"/>
+          </LigatureSet>
+          <LigatureSet glyph="k">
+            <Ligature components="s" glyph="ks"/>
+            <Ligature components="r" glyph="kr"/>
+          </LigatureSet>
+          <LigatureSet glyph="l">
+            <Ligature components="s" glyph="ls"/>
+            <Ligature components="r" glyph="lr"/>
+          </LigatureSet>
+          <LigatureSet glyph="m">
+            <Ligature components="s" glyph="ms"/>
+            <Ligature components="r" glyph="mr"/>
+          </LigatureSet>
+          <LigatureSet glyph="n">
+            <Ligature components="s" glyph="ns"/>
+            <Ligature components="r" glyph="nr"/>
+          </LigatureSet>
+          <LigatureSet glyph="o">
+            <Ligature components="s" glyph="os"/>
+            <Ligature components="r" glyph="or"/>
+          </LigatureSet>
+          <LigatureSet glyph="p">
+            <Ligature components="s" glyph="ps"/>
+            <Ligature components="r" glyph="pr"/>
+          </LigatureSet>
+          <LigatureSet glyph="r">
+            <Ligature components="s" glyph="rs"/>
+            <Ligature components="r" glyph="rr"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="s" glyph="ts"/>
+            <Ligature components="r" glyph="tr"/>
+          </LigatureSet>
+          <LigatureSet glyph="u">
+            <Ligature components="s" glyph="us"/>
+            <Ligature components="r" glyph="ur"/>
+          </LigatureSet>
+          <LigatureSet glyph="v">
+            <Ligature components="s" glyph="vs"/>
+            <Ligature components="r" glyph="vr"/>
+          </LigatureSet>
+          <LigatureSet glyph="w">
+            <Ligature components="s" glyph="ws"/>
+            <Ligature components="r" glyph="wr"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="a">
+            <Ligature components="s" glyph="as"/>
+            <Ligature components="r" glyph="ar"/>
+          </LigatureSet>
+          <LigatureSet glyph="b">
+            <Ligature components="s" glyph="bs"/>
+            <Ligature components="r" glyph="br"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="s" glyph="cs"/>
+            <Ligature components="r" glyph="cr"/>
+          </LigatureSet>
+          <LigatureSet glyph="d">
+            <Ligature components="s" glyph="ds"/>
+            <Ligature components="r" glyph="dr"/>
+          </LigatureSet>
+          <LigatureSet glyph="e">
+            <Ligature components="s" glyph="es"/>
+            <Ligature components="r" glyph="er"/>
+          </LigatureSet>
+          <LigatureSet glyph="h">
+            <Ligature components="s" glyph="hs"/>
+            <Ligature components="r" glyph="hr"/>
+          </LigatureSet>
+          <LigatureSet glyph="i">
+            <Ligature components="s" glyph="is"/>
+            <Ligature components="r" glyph="ir"/>
+          </LigatureSet>
+          <LigatureSet glyph="k">
+            <Ligature components="s" glyph="ks"/>
+            <Ligature components="r" glyph="kr"/>
+          </LigatureSet>
+          <LigatureSet glyph="l">
+            <Ligature components="s" glyph="ls"/>
+            <Ligature components="r" glyph="lr"/>
+          </LigatureSet>
+          <LigatureSet glyph="m">
+            <Ligature components="s" glyph="ms"/>
+            <Ligature components="r" glyph="mr"/>
+          </LigatureSet>
+          <LigatureSet glyph="n">
+            <Ligature components="s" glyph="ns"/>
+            <Ligature components="r" glyph="nr"/>
+          </LigatureSet>
+          <LigatureSet glyph="o">
+            <Ligature components="s" glyph="os"/>
+            <Ligature components="r" glyph="or"/>
+          </LigatureSet>
+          <LigatureSet glyph="p">
+            <Ligature components="s" glyph="ps"/>
+            <Ligature components="r" glyph="pr"/>
+          </LigatureSet>
+          <LigatureSet glyph="r">
+            <Ligature components="s" glyph="rs"/>
+            <Ligature components="r" glyph="rr"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="s" glyph="ts"/>
+            <Ligature components="r" glyph="tr"/>
+          </LigatureSet>
+          <LigatureSet glyph="u">
+            <Ligature components="s" glyph="us"/>
+            <Ligature components="r" glyph="ur"/>
+          </LigatureSet>
+          <LigatureSet glyph="v">
+            <Ligature components="s" glyph="vs"/>
+            <Ligature components="r" glyph="vr"/>
+          </LigatureSet>
+          <LigatureSet glyph="w">
+            <Ligature components="s" glyph="ws"/>
+            <Ligature components="r" glyph="wr"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="a">
+            <Ligature components="s" glyph="as"/>
+            <Ligature components="r" glyph="ar"/>
+          </LigatureSet>
+          <LigatureSet glyph="b">
+            <Ligature components="s" glyph="bs"/>
+            <Ligature components="r" glyph="br"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="s" glyph="cs"/>
+            <Ligature components="r" glyph="cr"/>
+          </LigatureSet>
+          <LigatureSet glyph="d">
+            <Ligature components="s" glyph="ds"/>
+            <Ligature components="r" glyph="dr"/>
+          </LigatureSet>
+          <LigatureSet glyph="e">
+            <Ligature components="s" glyph="es"/>
+            <Ligature components="r" glyph="er"/>
+          </LigatureSet>
+          <LigatureSet glyph="h">
+            <Ligature components="s" glyph="hs"/>
+            <Ligature components="r" glyph="hr"/>
+          </LigatureSet>
+          <LigatureSet glyph="i">
+            <Ligature components="s" glyph="is"/>
+            <Ligature components="r" glyph="ir"/>
+          </LigatureSet>
+          <LigatureSet glyph="k">
+            <Ligature components="s" glyph="ks"/>
+            <Ligature components="r" glyph="kr"/>
+          </LigatureSet>
+          <LigatureSet glyph="l">
+            <Ligature components="s" glyph="ls"/>
+            <Ligature components="r" glyph="lr"/>
+          </LigatureSet>
+          <LigatureSet glyph="m">
+            <Ligature components="s" glyph="ms"/>
+            <Ligature components="r" glyph="mr"/>
+          </LigatureSet>
+          <LigatureSet glyph="n">
+            <Ligature components="s" glyph="ns"/>
+            <Ligature components="r" glyph="nr"/>
+          </LigatureSet>
+          <LigatureSet glyph="o">
+            <Ligature components="s" glyph="os"/>
+            <Ligature components="r" glyph="or"/>
+          </LigatureSet>
+          <LigatureSet glyph="p">
+            <Ligature components="s" glyph="ps"/>
+            <Ligature components="r" glyph="pr"/>
+          </LigatureSet>
+          <LigatureSet glyph="r">
+            <Ligature components="s" glyph="rs"/>
+            <Ligature components="r" glyph="rr"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="s" glyph="ts"/>
+            <Ligature components="r" glyph="tr"/>
+          </LigatureSet>
+          <LigatureSet glyph="u">
+            <Ligature components="s" glyph="us"/>
+            <Ligature components="r" glyph="ur"/>
+          </LigatureSet>
+          <LigatureSet glyph="v">
+            <Ligature components="s" glyph="vs"/>
+            <Ligature components="r" glyph="vr"/>
+          </LigatureSet>
+          <LigatureSet glyph="w">
+            <Ligature components="s" glyph="ws"/>
+            <Ligature components="r" glyph="wr"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
