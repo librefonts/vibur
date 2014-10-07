@@ -1,0 +1,37 @@
+Fonts
+  Font:
+    Common name: Vibur
+    Sub family: Medium
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2010, Johan Kallas (johan.kallas@gmail.com). All rights reserved. Licenced under SIL OFL v1.1
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.004
+    Glyph count: 279
+    Character count: 228
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 44
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 96
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
